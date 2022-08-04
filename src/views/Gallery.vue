@@ -68,25 +68,6 @@ export default {
       background-color: rgb(16, 15, 15);
       padding-bottom: 100px;
     }
-    #gallery .heading{
-         width: 100%;
-         margin: auto;
-         height: 290px;
-         text-align: center;
-         text-transform: uppercase;
-         background-image: linear-gradient(270deg,rgb(5,5,5), rgb(6, 253, 6), rgb(5,5,5));
-         color: rgb(5, 5, 5);
-         padding-top: 100px;
-         font-family: 'IBM Plex Mono', monospace;
-         font-weight: 500;
-     }
-     .heading h1{
-         font-size: 70px;
-         color: white;
-     }
-     .heading h2{
-         font-size: 30px;
-     }
    .gallery{
       display: grid;
       width: 90%;
